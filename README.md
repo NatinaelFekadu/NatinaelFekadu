@@ -1,6 +1,6 @@
 <img src="https://codinghero.ai/wp-content/uploads/2021/11/21-Fun-Software-Facts-For-Kids-1536x864.jpg" alt="Software Development" width="100%" height="250px">
 
-<h1 align="center">Hi 👋, I'm Natnael</h1>
+<h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A passionate software Engineer from Ethiopia</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/564x/90/ff/85/90ff85bd1fb0c3deb2606ab9f14cb406.jpg">
 
